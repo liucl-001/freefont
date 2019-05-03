@@ -5,4 +5,5 @@
 https://www.zcool.com.cn/special/zcoolfonts/
 
 思源字体:
+ OFL (SIL) 协议,可以修改字体。只要不是售卖字体，可在各种场合下使用。
 https://source.typekit.com/source-han-serif/cn/
